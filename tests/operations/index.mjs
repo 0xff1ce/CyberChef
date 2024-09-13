@@ -154,6 +154,9 @@ import "./tests/Unicode.mjs";
 import "./tests/YARA.mjs";
 import "./tests/ParseCSR.mjs";
 import "./tests/XXTEA.mjs";
+import "./tests/InsertDelimiter.mjs";
+import "./tests/Wrap.mjs";
+import "./tests/GeneratePassword.mjs";
 
 const testStatus = {
     allTestsPassing: true,

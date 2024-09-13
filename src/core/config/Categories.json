@@ -320,7 +320,9 @@
             "Unescape string",
             "Pseudo-Random Number Generator",
             "Sleep",
-            "File Tree"
+            "File Tree",
+            "Insert Delimiter",
+            "Wrap"
         ]
     },
     {
@@ -537,7 +539,8 @@
             "HTML To Text",
             "Generate Lorem Ipsum",
             "Numberwang",
-            "XKCD Random Number"
+            "XKCD Random Number",
+            "Generate Password"
         ]
     },
     {
