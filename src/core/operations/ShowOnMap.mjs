@@ -1,6 +1,7 @@
 /**
  * @author j433866 [j433866@gmail.com]
- * @copyright Crown Copyright 2019
+ * @author 0xff1ce [github.com/0xff1ce]
+ * @copyright Crown Copyright 2024
  * @author 0xff1ce [github.com/0xff1ce]
  * @copyright Crown Copyright 2024
  * @license Apache-2.0
